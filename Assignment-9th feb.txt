@@ -1,0 +1,39 @@
+1. Google Search
+
+AI helps rank search results based on relevance. ML models analyze user queries, past searches, and website content to show the best results.
+
+2. YouTube Recommendations
+
+ML algorithms track watch history, likes, and time spent to suggest videos similar to user interests.
+
+3. Netflix / OTT Platforms
+
+AI recommends movies and shows using collaborative filtering based on user preferences and behavior patterns.
+
+4. Google Maps Navigation
+
+ML predicts traffic conditions using real-time data from users and suggests the fastest route.
+
+5. Voice Assistants (Alexa, Google Assistant, Siri)
+
+Speech recognition models convert voice to text, and NLP models understand intent and provide responses.
+
+6. Email Spam Filtering (Gmail)
+
+ML models classify emails as spam or not by analyzing patterns, keywords, and sender behavior.
+
+7. Instagram / Facebook Feed
+
+AI ranks posts based on engagement, likes, comments, and user interaction patterns.
+
+8. Online Shopping (Amazon, Flipkart)
+
+Recommendation systems suggest products based on browsing history, purchases, and similar users’ behavior.
+
+9. Keyboard Auto-correct & Suggestions
+
+ML models predict next words and correct spelling errors using language models trained on large text data.
+
+10. Face Unlock in Smartphones
+
+Computer vision models detect and match facial features with stored data to authenticate users.

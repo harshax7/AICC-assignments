@@ -1,0 +1,21 @@
+ML Ideas:
+🎓 1. College – Student Performance Predictor
+Input: Attendance, study hours, previous marks
+Output: Predicted final grade
+Use: Helps students improve performance
+🏥 2. Healthcare – Disease Prediction System
+Input: Symptoms, age, medical history
+Output: Possible disease or risk level
+Use: Early diagnosis and treatment
+🛒 3. Shopping – Product Recommendation System
+Input: Browsing history, past purchases
+Output: Recommended products
+Use: Improves user experience and sales
+🚗 4. Transportation – Traffic Prediction
+Input: Time, location, traffic data
+Output: Traffic congestion level
+Use: Better route planning
+💬 5. Social Media – Sentiment Analysis
+Input: User comments/text
+Output: Positive / Negative / Neutral sentiment
+Use: Understand user opinions

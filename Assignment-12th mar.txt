@@ -1,0 +1,17 @@
+                Is it Sunny?
+                /        \
+             Yes          No
+            /              \
+   Is Temperature High?    Play Outside
+        /       \
+      Yes       No
+     /           \
+ Don't Play   Is it Windy?
+                /      \
+              Yes      No
+             /          \
+       Don't Play     Play Outside
+
+A decision tree is a flowchart-like structure used for decision-making. Each internal node represents a condition, each branch represents the outcome of the condition, and each leaf node represents a final decision.
+
+In this example, the decision to play outside depends on weather conditions like sunlight, temperature, and wind. The tree helps systematically evaluate conditions to arrive at a conclusion.

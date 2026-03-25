@@ -1,0 +1,29 @@
+AI-Based Customer Segmentation System
+
+Problem Statement:
+Businesses struggle to understand customer behavior and target the right audience for marketing.
+
+Dataset:
+Mall Customer Dataset (or e-commerce customer data)
+
+Algorithm:
+K-Means Clustering
+
+Methodology:
+
+Data preprocessing (cleaning, normalization)
+Feature selection (income, spending score)
+Apply clustering algorithm
+Visualize customer groups
+
+Expected Output:
+
+Segmented customer groups
+Graph visualization
+Insights for marketing strategies
+
+Applications:
+
+Personalized marketing
+Customer retention
+Business decision making
