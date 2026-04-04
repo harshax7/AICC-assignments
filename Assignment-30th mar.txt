@@ -1,0 +1,29 @@
+Resume Generation
+*Weak Prompt
+--“Write a resume”
+
+*Strong Prompt
+--“Create a professional resume for a 3rd-year Computer Science engineering student skilled in Python, Machine Learning, and Web Development. Include sections: education, skills, projects, and achievements.”
+
+Business Idea
+*Weak Prompt
+--“Give me a business idea”
+
+*Strong Prompt
+--“Suggest an innovative AI-based business idea for healthcare that solves a real-world problem, includes target users, revenue model, and key features.”
+
+Study Plan
+*Weak Prompt
+--“Make a study plan”
+
+*Strong Prompt
+--“Create a 2-week study plan for learning Python for data science, assuming 2 hours per day. Include topics, practice tasks, and revision schedule.”
+
+Content Writing
+*Weak Prompt
+
+--“Write about AI”
+
+*Strong Prompt
+
+--“Write a 200-word explanation of Artificial Intelligence suitable for beginners, including real-life examples and simple language.”
