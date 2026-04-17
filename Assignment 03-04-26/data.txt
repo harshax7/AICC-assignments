@@ -1,0 +1,37 @@
+Account & Transaction Issues
+Failed Transactions: Money debited from the account but not received by the merchant or the recipient.
+Unauthorized Transactions: Recognizing a charge the customer didn't make and the process for disputing it.
+Transaction Limits: Confusion over daily withdrawal limits, UPI transfer caps, or international spending restrictions.
+Pending Transfers: Understanding why a wire transfer, NEFT, or IMPS is "stuck" or taking longer than expected.
+2. Card Management
+Lost or Stolen Cards: Immediate steps to block a credit or debit card to prevent fraud.
+PIN Reset/Generation: How to change a forgotten PIN or activate a newly issued card.
+Card Not Working: Troubleshooting issues with EMV chips, expired cards, or declined international transactions.
+Annual Fees: Inquiries about why a card was charged a renewal fee and requests for fee waivers.
+3. Hidden Charges & Fees
+Minimum Balance Penalties: Frustration over "Non-Maintenance Charges" when an account balance dips below the required limit.
+ATM Fees: Charges for using another bank’s ATM or exceeding the monthly limit of free transactions.
+SMS & Service Alerts: Small recurring charges for mobile banking notifications that customers often want to opt-out of.
+Overdraft Fees: Charges incurred when a transaction exceeds the available balance.
+4. Loans & Credit Scores
+Eligibility Check: People wanting to know if they qualify for a home, personal, or car loan without affecting their credit score.
+Interest Rates: Clarification on "Floating" vs. "Fixed" rates and why their EMI (Equated Monthly Installment) increased.
+Repayment/Moratorium: How to make an early repayment (foreclosure) and whether there are penalty charges for doing so.
+Credit Score Impact: Why a loan application was rejected or how a specific action will impact their CIBIL/Credit report.
+5. KYC & Documentation
+KYC Updates: Confusion over the "Re-KYC" process and which documents (ID proof, Address proof) are currently valid.
+Profile Changes: How to update a mobile number, email address, or home address without visiting a physical branch.
+Account Freezing: Why an account was suddenly "frozen" or marked "inactive" due to lack of recent documentation.
+6. Digital Banking Hurdles
+Login Failures: Locked accounts due to multiple incorrect password attempts.
+OTP Issues: Not receiving the One-Time Password required to complete an online purchase.
+App Glitches: Constant crashing of the mobile banking app or "Server Down" messages during peak hours.
+7. Customer Service & Redressal
+Wait Times: Long hold times when trying to reach a human agent via the helpline.
+Complex IVR: Difficulty navigating automated phone menus to get to the right department.
+Grievance Escalation: Not knowing who to contact (like an Ombudsman) if the bank branch doesn't resolve a complaint.
+
+
+
+
+
